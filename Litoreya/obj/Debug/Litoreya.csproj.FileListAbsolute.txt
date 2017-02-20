@@ -1,1 +1,9 @@
 D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\bin\Debug\Litoreya.exe.config
+D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\bin\Debug\Litoreya.exe
+D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\bin\Debug\Litoreya.pdb
+D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\obj\Debug\Litoreya.csprojResolveAssemblyReference.cache
+D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\obj\Debug\Litoreya.Litoreya.resources
+D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\obj\Debug\Litoreya.Properties.Resources.resources
+D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\obj\Debug\Litoreya.csproj.GenerateResource.Cache
+D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\obj\Debug\Litoreya.exe
+D:\Учеба\Теория информации и кодирования\Практические задания\Litoreya\Litoreya\obj\Debug\Litoreya.pdb
